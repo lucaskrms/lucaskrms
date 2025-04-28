@@ -1,8 +1,8 @@
 <h2 align="left">Hello there 👋!</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/lucaskermessi/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://google.com/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaskermessi@gmail.com)](mailto:lucaskermessi@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaskermessi/)](https://www.linkedin.com/in/lucaskermessi/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.google.com/)](https://google.com/)
+[![Gmail Badge](https://img.shields.io/badge/-lucaskermessi@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaskermessi@gmail.com)](mailto:lucaskermessi@gmail.com)
 
 
 ## My name is Lucas Kermessi
@@ -10,7 +10,6 @@
 - Software Enginner
 - 🎓 Bachelor's degree in Computer Science
 - 🌐 Passionate about software development 
-- 💡 
 
 
 ###
