@@ -7,7 +7,7 @@
 
 ## My name is Lucas Kermessi
 (Java | Spring Boot | Angular | Typescript | Javascript | HTML | CSS | Docker | Kubernetes | MySQL | SQL Server | Oracle ) 🚀
-- Software Enginner
+- 👨‍💻 Software Enginner
 - 🎓 Bachelor's degree in Computer Science
 - 🌐 Passionate about software development 
 
